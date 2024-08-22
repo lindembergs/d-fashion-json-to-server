@@ -1,0 +1,8 @@
+{
+  "name": "d-fashion-json-to-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lindembergs/d-fashion-json-to-server.git",
+  "author": "Lindemberg <lindembergparaiba@gmail.com>",
+  "license": "MIT"
+}
